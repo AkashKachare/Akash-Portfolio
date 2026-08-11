@@ -3,8 +3,8 @@ export const personalInfo = {
   location: 'Sangamner, India',
   phone: '+91-8459233309',
   email: 'akashkachare878@gmail.com',
-  linkedin: 'linkedin.com/in/akash-kachare-3a8187272',
-  github: '#',
+  linkedin: 'https://www.linkedin.com/in/akash-kachare-3a8187272/',
+  github: 'https://github.com/AkashKachare',
   resume: '/Resume.pdf',
 }
 
