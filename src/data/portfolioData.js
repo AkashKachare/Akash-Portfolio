@@ -5,7 +5,7 @@ export const personalInfo = {
   email: 'akashkachare878@gmail.com',
   linkedin: 'https://www.linkedin.com/in/akash-kachare-3a8187272/',
   github: 'https://github.com/AkashKachare',
-  resume: '/Resume.pdf',
+ resume: '/Akash resume .pdf',
 }
 
 export const navLinks = [
